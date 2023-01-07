@@ -1,0 +1,1 @@
+npm -f i react-scripts
